@@ -5,10 +5,10 @@
   "forceUpdateUrl": "market://details?id=retro.game.emulator.nes",
   "checkClone": false,
   "reviewVersion": -1,
-  "showNESGamesTimeDelay": 0,
+  "showNESGamesTimeDelay": 10,
   "adsNetwork": 0,
   "adsType": 0,
-  "numberPressToShowAds": 30,
+  "numberPressToShowAds": 20,
   "showNewGames": false,
   "newGames": [
     {
