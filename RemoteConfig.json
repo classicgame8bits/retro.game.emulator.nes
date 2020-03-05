@@ -9,12 +9,12 @@
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
-  "showNewGames": false,
+  "showNewGames": true,
   "newGames": [
     {
-      "name": "Merge Hero retro.game.emulator.nes",
-      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/retro.game.emulator.nes/master/merge_hero_banner.png",
-      "downloadUrl": "market://details?id=com.classic.game.mergehero"
+      "name": "",
+      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.game.retro.emulator.nes/master/big_update.jpg",
+      "downloadUrl": "market://details?id=classic.retro.nostalgia.nes"
     }
   ]
 }
